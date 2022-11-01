@@ -20,6 +20,7 @@
         padding-right: var(--space-default);
         padding-bottom: 24px;
         padding-left: var(--space-default);
+        position: fixed;
     }
     
     .logo {
@@ -41,7 +42,7 @@
         width: 316px;
         height: 805.24px;
         left: 50%;
-        top: 156.16px;
+        top: 10%;
   
     }
     
